@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Running Man",
+  "description": "Run scripts when you want",
+  "version": "0.0",
+
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
